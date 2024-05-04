@@ -1,0 +1,4 @@
+# Ignorar tablas
+*.csv
+# Ignorar checkpoints
+*checkpoint.ipynb
